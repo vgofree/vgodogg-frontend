@@ -37,5 +37,5 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://github.com/vgofree/dsf.git"
+  "homepage": "https://github.com/vgofree/vgodogg-frontend"
 }
